@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Altschool-Assignnment-3/static/css/main.1842a35e.css",
+    "main.js": "/Altschool-Assignnment-3/static/js/main.605a3c85.js",
+    "index.html": "/Altschool-Assignnment-3/index.html",
+    "main.1842a35e.css.map": "/Altschool-Assignnment-3/static/css/main.1842a35e.css.map",
+    "main.605a3c85.js.map": "/Altschool-Assignnment-3/static/js/main.605a3c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1842a35e.css",
+    "static/js/main.605a3c85.js"
+  ]
+}
